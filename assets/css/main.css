@@ -2688,7 +2688,9 @@ input[type="radio"] + label:before {
 .image.fit {
   display: inline-block;
   margin: 0 0 2em 0;
-  width: 100%;
+  width: 45%;
+  margin-top: 0px;
+  margin-left: 100px;
 }
 
 .image.fit img {
