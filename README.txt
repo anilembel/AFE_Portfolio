@@ -1,17 +1,17 @@
-This project exists with the changes made on the ready template. Thank you for your interest.
-Anil Embel
+Steller Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
 
-Template: Hyperspace by HTML5 UP
+Product Page: https://wwww.devcrud.com/
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+    Demo Images:
+        Unsplash:       (https://www.unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+    Icons:
+		Themify Icons (https://themify.me/themify-icons)
 
 	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		jQuery (https://www.jquery.com)
+		Bootstrap (https://www.getbootstrap.com)
+		Bootstrap Affix (http://getbootstrap.com/javascript/#affix) 
+
